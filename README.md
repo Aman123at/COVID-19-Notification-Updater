@@ -1,3 +1,6 @@
+![Logo](/img/covid.jfif)
+
+
 # COVID-19-Notification-Updater
 This is the python script by running this script you can see the latest data of coronavirus effected population in your desktop's notification every 1 hour.
 
